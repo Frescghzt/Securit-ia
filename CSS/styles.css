@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+    font-family: Roboto;
+}
+header{
+    padding: 0 40px;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: space-between;
+    
+}
+a{
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo{
+
+    display: flex;
+}
+.logo-img{
+    height: 80px;
+}
+span{
+    align-items: center;
+    font-weight: 400;
+    font-size: 20px;
+    color: #6B70A0;
+    padding: 0% 10px;
+
+}
+.download{
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFF;
+    background-color: #262383;
+    border: 5px solid #262383;
+    border-radius: 4px;
+    align-items: center;
+    
+}
+
+.search{
+    color: #454866;
+    border-radius: 4px;
+    padding: 6px;
+    align-items: center;
+    background-color: #000;
+    border: 1px  solid #454866;
+    width: 250px;
+    
+    
+}
+.lupa{
+    margin: 0  ;
+    height: 15px;
+}
